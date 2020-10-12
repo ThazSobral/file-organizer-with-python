@@ -46,4 +46,4 @@ class Manager:
 
 config = Manager()
 organizer = Organizer()
-organizer.start(config.extensions)
+organizer.organize(config.extensions)
