@@ -6,3 +6,5 @@ Basta apenas acessar a pasta que deseja organizar via linha de comando e executa
 ```shell
 <caminho_da_pasta_que_deseja_organizar> > python <caminho_do_script_python_com_o_nome_dele.py> 
 ```
+
+> *Caso deseje sugerir ideias ou criticar, basta apenas abrir uma issue.* 👍😁
