@@ -1,7 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\file_organizer]
-@="Organizer Files Here"
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\file_organizer\command]
-@="\"C:\\Program Files\\File Organizer\\file-organizer.exe\" \"%v.\""
